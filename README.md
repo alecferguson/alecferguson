@@ -1,9 +1,9 @@
-# Alec Ferguson 💻
-**`Developer`**
+# Alec Ferguson 
+**`Developer💻`**
 
 🔭 I’m currently working on ChatterBox
 
-🌱 I’m currently learning authentication using tanstack
+🌱 I’m currently learning authentication using Clerk
 
 #
 
