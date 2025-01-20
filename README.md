@@ -1,12 +1,6 @@
 # Alec Ferguson 
 **`Developer💻`**
 
-🔭 I’m currently working on ChatterBox
-
-🌱 I’m currently learning authentication using Clerk
-
-#
-
 ### Skills & Tools
 [![Skills & Tools](https://skillicons.dev/icons?i=java,js,html,css,npm,nodejs,docker,eclipse,git,github,mysql,powershell,azure)](https://skillicons.dev)
 
