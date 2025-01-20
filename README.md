@@ -8,12 +8,12 @@
 #
 
 ### Skills & Tools
-[![Skills & Tools](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![Skills & Tools](https://skillicons.dev/icons?i=java,js,html.css,npm,nodejs,docker,eclipse,git,github,mysql,powershell,azure)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=py,cs,unity,blender)](https://skillicons.dev)
 
-### Contacts
+### Contact
 <div>
     <a href="https://www.linkedin.com/in/alecferguson2">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
