@@ -8,7 +8,7 @@
 #
 
 ### Skills & Tools
-[![Skills & Tools](https://skillicons.dev/icons?i=java,js,html.css,npm,nodejs,docker,eclipse,git,github,mysql,powershell,azure)](https://skillicons.dev)
+[![Skills & Tools](https://skillicons.dev/icons?i=java,js,html,css,npm,nodejs,docker,eclipse,git,github,mysql,powershell,azure)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=py,cs,unity,blender)](https://skillicons.dev)
